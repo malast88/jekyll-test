@@ -5,4 +5,4 @@ tags: [some-tag, another-tag]
 ---
 # This is First post!
 
-![Nice picture](/assets/book-tunnel.jpg)
+![Nice picture]({{ site.baseurl }}/assets/book-tunnel.jpg)
